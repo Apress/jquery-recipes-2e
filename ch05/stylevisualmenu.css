@@ -1,0 +1,41 @@
+.buttons{
+	background-image:url(tabl.jpg);
+	background-repeat:no-repeat;
+	background-position: left;
+	background-color:#000;
+	width: 80px; 
+	float: left;
+	text-align: center; 
+}
+
+a{
+	display:block;
+	background-image:url(tabr.jpg);
+	background-repeat:no-repeat;
+	background-position: right;
+	padding:3px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#fff;
+}
+
+.rightselectfig{
+	display:block;
+	background-image:url(tabrselect.jpg);
+	background-repeat:no-repeat;
+	background-position: right;
+	padding:3px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#fff;
+}
+
+.leftselectfig{
+	background-image:url(tablselect.jpg);
+	background-repeat:no-repeat;
+	background-position: left;
+	background-color:#0f0;
+	width: 80px; 
+	float: left;
+	text-align: center; 
+}

@@ -1,0 +1,19 @@
+.buttons{
+	width: 150px;
+	float: left;
+	text-align: center;
+	color:#000;
+	background-color:red;
+	margin: 5px;
+	font-weight: bold;
+}
+.hover{
+	color:red;
+	background:url(balloon.png);
+	background-repeat:no-repeat;
+	background-position:bottom;
+}
+.showtip{
+	display:block;
+	margin:25px;
+}

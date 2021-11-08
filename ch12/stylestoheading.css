@@ -1,0 +1,12 @@
+.heading{
+	margin:0;
+	padding:0;
+	font-style: italic; 
+	border-top:5px solid black;
+	border-bottom:5px solid black;
+}
+
+p{
+	margin:0;
+	padding:0;
+}

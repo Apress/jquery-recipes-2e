@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <script src="jquery-3.5.1.js" type="text/javascript"></script>  
+<script src="jquery.validate.js" type="text/javascript"></script>
+<script src="usingformvalidatejq.js" type="text/javascript"></script>
+  </head>
+<body>
+<form class="cmxform" id="commentForm" method="get" action="">
+  <fieldset>
+    <legend>Please provide your name, email address and a comment</legend>
+    <p>
+      <label for="cname">Name (required, at least 2 characters)</label>
+      <input id="cname" name="name" minlength="2" type="text" required>
+    </p>
+    <p>
+      <label for="cemail">E-Mail (required)</label>
+      <input id="cemail" type="email" name="email" required>
+    </p>
+    <p>
+      <label for="curl">URL (optional)</label>
+      <input id="curl" type="url" name="url">
+    </p>
+    <p>
+      <label for="ccomment">Your comment (required)</label>
+      <textarea id="ccomment" name="comment" required></textarea>
+    </p>
+    <p>
+      <input class="submit" type="submit" value="Submit">
+    </p>
+  </fieldset>
+</form>
+</body>  
+</html>

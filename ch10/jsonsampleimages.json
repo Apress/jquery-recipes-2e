@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Intel", 
+        "Image": "chip.jpg" 
+    },
+ 
+    {
+        "Name": "AMD", 
+        "Image": "chip2.jpg" 
+    },
+  
+    {
+        "Name": "Cisc", 
+        "Image": "chip3.jpg" 
+    },
+
+    {
+        "Name": "Risc", 
+        "Image": "chip4.jpg" 
+    },
+
+    {
+        "Name": "Dual Core", 
+        "Image": "chip5.jpg" 
+    }
+]

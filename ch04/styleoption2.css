@@ -1,0 +1,14 @@
+.label {float: left; width: 150px; } 
+.infobox {width: 150px; } 
+.error { color: red; padding-left: 10px; }
+.submit { margin-left: 150px; margin-top: 10px;font-size:1.5em;background-color:green;color:blue;}
+
+option{
+background-color:red;
+color:white;
+}
+
+.meal{
+background-color:cyan;
+color:blue;
+}

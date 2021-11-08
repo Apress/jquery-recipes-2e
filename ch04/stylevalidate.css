@@ -1,0 +1,5 @@
+.label {float: left; width: 120px; } 
+.infobox {width: 200px; } 
+.error { color: red; padding-left: 10px; } 
+.submit { margin-left: 125px; margin-top: 10px;} 
+div{padding: 5px; }

@@ -1,0 +1,30 @@
+ul {
+  	width: 200px;
+}
+
+ul li ul {
+  	list-style-type:none;
+  	margin: 5;
+  	width: 200px;
+}
+
+a {
+  	display:block;
+  	border-bottom: 1px solid #fff; 
+  	text-decoration: none;
+  	background: #00f;
+  	color: #fff;	
+  	padding: 0.5em;
+}
+
+li {
+   	display:inline;
+}
+
+.hover {
+  	background: #000;
+}
+
+.hot{
+	text-decoration:underline;
+}

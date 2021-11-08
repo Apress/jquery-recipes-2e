@@ -1,0 +1,14 @@
+.liststyle {
+	background-image:url(arrow.jpg);
+	background-repeat:no-repeat;
+	background-position:left;
+	padding-left:30px;
+	display: inline;
+}
+
+.uliststyle {
+	list-style:none;
+	margin:0;
+	padding:0;
+	display: inline;
+}

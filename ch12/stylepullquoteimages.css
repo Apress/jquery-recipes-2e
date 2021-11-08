@@ -1,0 +1,14 @@
+.quote{
+	background-image:url(leftfig.jpg);
+	background-repeat: no-repeat;
+	margin:5%;
+	color:#00a;
+	font-style: italic;
+	padding:30px 5px 5px 30px;
+}
+
+.closing{
+	background-image:url(rightfig.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}

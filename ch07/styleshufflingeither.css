@@ -1,0 +1,18 @@
+#scroller {
+	position: relative;
+	height:150px;
+	width: 460px;
+	overflow:hidden;
+	margin:auto;
+}
+#images{
+	width: 770px;
+}
+#images a img { border:0; position:relative;}
+#direction
+{
+	width: 460px;
+	margin:auto;
+}
+.leftarrow{margin-top:10px;}
+.rightarrow{margin-left:300px;margin-top:10px;}

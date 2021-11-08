@@ -1,0 +1,37 @@
+body {
+ padding: 10px;
+}
+
+#image_slider {
+ width: 210px;
+ height: 230px;
+ overflow: hidden;
+  margin: auto;
+  display: block;
+}
+
+#image_slider ul {
+ list-style: none;
+ width: 1200px;
+ height: 210px;
+ margin: 0;
+ padding: 0;
+}
+
+#image_slider li {
+ width: 210px;
+ height: 200px;
+ float: left;
+}
+
+.leftarrow {
+ float: left;
+ width: 20px;
+ height: 20px;
+}
+.rightarrow {
+ float: right;
+ width: 20px;
+ height: 20px;
+}
+

@@ -1,0 +1,7 @@
+.label {float: left; width: 120px; } 
+.infobox {width: 120px; } 
+.error { color: red; padding-left: 10px; } 
+.submit { margin-left: 125px; margin-top: 10px;} 
+div{padding: 5px; }
+.chkb { margin-left: 125px; margin-top: 10px;} 
+.radiobtn { margin-left: 125px; margin-top: 10px;}

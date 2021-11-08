@@ -1,0 +1,10 @@
+a{ text-decoration: none; color:#000;}
+ul{margin:0; list-style: none; }
+ul.dropdown li {float: left;  background: cyan; }
+ul.dropdown a:hover {background: #0f0; color: #00f; }
+ul.dropdown li a {display: block; padding: 4px; border-right: 1px solid #000; }
+ul.dropdown ul {width:150px; visibility: hidden; position: absolute;  }
+ul.dropdown ul li {background: yellow; border-bottom: 1px solid #000; width:100%; }
+ul.dropdown ul li a { border-right: none; width:100%; } 
+ul.dropdown ul ul {left:100%; width:100%;top: 0; }
+.hover {position: relative; }

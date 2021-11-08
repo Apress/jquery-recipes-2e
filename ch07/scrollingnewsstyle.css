@@ -1,0 +1,13 @@
+.scroller {
+  width: 200px;
+  height: 400px;
+  overflow: hidden;
+  margin: auto;
+padding:10px;
+  position: relative;
+border: 1px solid;
+}
+
+.scroll {
+  position: relative;
+}

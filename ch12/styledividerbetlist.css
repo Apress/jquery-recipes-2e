@@ -1,0 +1,14 @@
+.applytopborders
+{
+	border-top: 1px solid black;
+}
+
+.applybottomborder
+{
+	border-bottom: 1px solid black;
+}
+
+.liststyle {
+	list-style-type:none;
+	padding-left: 0;
+}

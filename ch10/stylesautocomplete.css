@@ -1,0 +1,18 @@
+.listbox {
+	position: relative;
+	left: 10px;
+	margin: 10px;
+	width: 200px;
+	background-color: #000;
+	color: #fff;
+	border: 2px solid #000;
+}
+.nameslist {
+	margin: 0px;
+	padding: 0px;
+	list-style:none;
+}
+.hover {
+	background-color: cyan;
+	color: blue;
+}

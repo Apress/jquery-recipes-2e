@@ -1,0 +1,27 @@
+.link{
+	display:block;
+	width:170px;
+	height:55px;
+	background-image:url(btn1.png);
+	background-repeat:no-repeat;
+	background-position: top left;
+}
+.hover{
+	display:block;
+	width:220px;
+	height:100px;
+	background-image:url(btn2.png);
+	background-repeat:no-repeat;
+	background-position: top left;
+}
+.active{
+	display:block;
+	width:170px;
+	height:55px;
+	background-image:url(btn3.png);
+	background-repeat:no-repeat;
+	background-position: top left;
+}
+img{
+	border:0;
+}
